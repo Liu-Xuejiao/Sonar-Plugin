@@ -1,13 +1,3 @@
-/**
- * Licensed Materials - Property of IBM
- *
- * Copyright IBM Corporation 2015. All Rights Reserved.
- *
- * US Government Users Restricted Rights - Use, duplication or disclosure
- * restricted by GSA ADP Schedule Contract with IBM Corp.
- **/
-package com.ibm.curam.sonaranalyzer
-
 import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.TaskAction
 import org.gradle.api.tasks.Input
